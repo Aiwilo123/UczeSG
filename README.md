@@ -1,0 +1,2 @@
+# UczeSG
+Repozytorium do nauki
