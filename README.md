@@ -1,5 +1,4 @@
 # UczeSG
 Repozytorium do nauki
 A to dodałam na VSC :)
-
-:__))
+print (4)
